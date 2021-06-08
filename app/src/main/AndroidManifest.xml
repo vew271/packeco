@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Packeco">
-        <activity android:name=".detail.detailvendor.DetailVendor"></activity>
+        <activity android:name=".detail.detailvendor.DetailVendor"/>
         <activity android:name=".detail.detailpackaging.DetailPackaging" />
         <activity android:name=".home.MainActivity">
             <intent-filter>

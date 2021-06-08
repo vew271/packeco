@@ -43,7 +43,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/iv_photo"
             app:layout_constraintTop_toTopOf="parent"
-            android:text="@string/dummyPackagename" />
+            android:text="@string/dummyVendorname" />
 
         <TextView
             android:id="@+id/tv_item_price"
