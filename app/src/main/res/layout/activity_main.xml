@@ -166,6 +166,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item2"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -220,6 +221,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item3"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -274,6 +276,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item4"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -368,6 +371,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item5"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -422,6 +426,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item6"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -476,6 +481,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item7"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -530,6 +536,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item8"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -624,6 +631,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item9"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -678,6 +686,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item10"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -732,6 +741,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item11"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
@@ -786,6 +796,7 @@
 
                         <!--cardview package-->
                         <LinearLayout
+                            android:id="@+id/cv_item12"
                             android:layout_width="140dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"

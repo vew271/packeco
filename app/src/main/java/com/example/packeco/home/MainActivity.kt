@@ -47,6 +47,51 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, DetailPackaging::class.java)
             startActivity(intent)
         }
+        binding.cvItem2.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem3.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem4.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem5.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem6.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem7.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem8.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem9.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem10.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem11.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+        binding.cvItem12.setOnClickListener{
+            val intent = Intent(this@MainActivity, DetailPackaging::class.java)
+            startActivity(intent)
+        }
+
     }
 
     private fun onAddButtonClicked() {
