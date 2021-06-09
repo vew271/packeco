@@ -10,4 +10,5 @@
     <color name="primary">#91c788</color>
     <color name="primarydark">#52734d</color>
     <color name="accent">#ddffbc</color>
+    <color name="splashblue">#4F5D75</color>
 </resources>
